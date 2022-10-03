@@ -70,5 +70,3 @@ class Ultra_Magic:
 
 
 
-print(det(d, result(d)))
-print(d)
